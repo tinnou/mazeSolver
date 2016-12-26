@@ -1,0 +1,18 @@
+﻿<Properties StartupConfiguration="{236F5608-759F-45D5-A68D-39C341AD9477}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="MazeSolver2VS/Program.cs">
+    <Files>
+      <File FileName="MazeSolver2VS/Program.cs" Line="92" Column="55" />
+      <File FileName="MazeSolver2VS/Point.cs" Line="14" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.MazeSolver2VS PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint enabled="false" file="/Users/antoine.boyer/Projects/MazeSolver2VS/MazeSolver2VS/Program.cs" relfile="MazeSolver2VS/Program.cs" line="101" column="1" />
+      <Breakpoint file="/Users/antoine.boyer/Projects/MazeSolver2VS/MazeSolver2VS/Program.cs" relfile="MazeSolver2VS/Program.cs" line="54" column="25" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
