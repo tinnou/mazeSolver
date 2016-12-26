@@ -16,7 +16,7 @@ namespace MazeSolver2VS
 
 		static void Main(string[] args)
 		{
-			var path = "/Users/antoine.boyer/Projects/MazeSolver2VS/MazeSolver2VS/Properties/maze1.png";
+			var path = "C://maze1.png";
 			using (var stream = File.OpenRead(path))
 			using (var image = Image.FromStream(stream))
 			{
@@ -69,7 +69,7 @@ namespace MazeSolver2VS
 				}
 
 				// save
-				imgBitmap.Save("/Users/antoine.boyer/Projects/MazeSolver2VS/MazeSolver2VS/Properties/maze1After.png");
+				imgBitmap.Save("C://maze1After.png");
 			}
 		}
 
