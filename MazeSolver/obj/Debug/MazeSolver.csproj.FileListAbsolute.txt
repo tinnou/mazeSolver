@@ -1,0 +1,6 @@
+c:\users\hkim\documents\visual studio 2015\Projects\MazeSolver\MazeSolver\bin\Debug\MazeSolver.exe.config
+c:\users\hkim\documents\visual studio 2015\Projects\MazeSolver\MazeSolver\bin\Debug\MazeSolver.exe
+c:\users\hkim\documents\visual studio 2015\Projects\MazeSolver\MazeSolver\bin\Debug\MazeSolver.pdb
+c:\users\hkim\documents\visual studio 2015\Projects\MazeSolver\MazeSolver\obj\Debug\MazeSolver.csprojResolveAssemblyReference.cache
+c:\users\hkim\documents\visual studio 2015\Projects\MazeSolver\MazeSolver\obj\Debug\MazeSolver.exe
+c:\users\hkim\documents\visual studio 2015\Projects\MazeSolver\MazeSolver\obj\Debug\MazeSolver.pdb

@@ -25,16 +25,16 @@ namespace MazeSolver
                 int[][] arr = BuildMatrix(imgBitmap);
 
                 // start point, will be set to one of the RED pixels
-                Point source = MazeSolver.FindPointByColor(arr, RED);
-
+                Point source = MazeSolver.FindPointByColor(arr, RED);                
+                
                 // BFS from RED to BLUE
                 Point p = MazeSolver.GetPathBFS(source, arr, imgBitmap, BLUE, BLACK);
-                DrawPath(p, imgBitmap);
+                DrawPath(p, imgBitmap);                
 
                 // save
                 imgBitmap.Save("C://maze2After.png");
             }
-        }
+        }        
 
         private static int[][] BuildMatrix(Bitmap imgBitmap)
         {
@@ -50,11 +50,11 @@ namespace MazeSolver
                     }
                     else if (imgBitmap.GetPixel(i, j).ToArgb() == Color.Blue.ToArgb())
                     {
-                        arr[i][j] = BLUE;
+                        arr[i][j] = BLUE; 
                     }
                     else if (imgBitmap.GetPixel(i, j).ToArgb() == Color.Red.ToArgb())
                     {
-                        arr[i][j] = RED;
+                        arr[i][j] = RED; 
                     }
                     else
                         arr[i][j] = BLACK;
