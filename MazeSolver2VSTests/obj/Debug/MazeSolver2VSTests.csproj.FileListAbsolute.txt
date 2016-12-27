@@ -1,0 +1,8 @@
+C:\Users\hkim\Documents\Visual Studio 2015\Projects\MazeSolver\MazeSolver2VSTests\bin\Debug\MazeSolver2VSTests.dll
+C:\Users\hkim\Documents\Visual Studio 2015\Projects\MazeSolver\MazeSolver2VSTests\bin\Debug\MazeSolver2VSTests.pdb
+C:\Users\hkim\Documents\Visual Studio 2015\Projects\MazeSolver\MazeSolver2VSTests\bin\Debug\MazeSolver2VS.exe
+C:\Users\hkim\Documents\Visual Studio 2015\Projects\MazeSolver\MazeSolver2VSTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\hkim\Documents\Visual Studio 2015\Projects\MazeSolver\MazeSolver2VSTests\bin\Debug\MazeSolver2VS.pdb
+C:\Users\hkim\Documents\Visual Studio 2015\Projects\MazeSolver\MazeSolver2VSTests\obj\Debug\MazeSolver2VSTests.csprojResolveAssemblyReference.cache
+C:\Users\hkim\Documents\Visual Studio 2015\Projects\MazeSolver\MazeSolver2VSTests\obj\Debug\MazeSolver2VSTests.dll
+C:\Users\hkim\Documents\Visual Studio 2015\Projects\MazeSolver\MazeSolver2VSTests\obj\Debug\MazeSolver2VSTests.pdb
