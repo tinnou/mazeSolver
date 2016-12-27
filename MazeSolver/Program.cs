@@ -1,8 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using System.Drawing;
 using System.IO;
 
@@ -28,7 +24,7 @@ namespace MazeSolver
                 Point source = MazeSolver.FindPointByColor(arr, RED);                
                 
                 // BFS from RED to BLUE
-                Point p = MazeSolver.GetPathBFS(source, arr, imgBitmap, BLUE, BLACK);
+                Point p = MazeSolver.GetPathBFS(source, arr, BLUE, BLACK);
                 DrawPath(p, imgBitmap);                
 
                 // save

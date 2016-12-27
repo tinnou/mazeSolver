@@ -1,9 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Drawing;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using System.Collections.Generic;
 
 namespace MazeSolver
 {
@@ -29,7 +24,7 @@ namespace MazeSolver
             return null;
         }
 
-        public static Point GetPathBFS(Point source, int[][] arr, Bitmap imgBitmap, int dest, int wall)
+        public static Point GetPathBFS(Point source, int[][] arr, int dest, int wall)
         {
             Queue<Point> q = new Queue<Point>();
 
